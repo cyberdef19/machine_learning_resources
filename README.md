@@ -4,5 +4,7 @@ https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-s
 https://arxiv.org/pdf/1706.03762
 Bert
 https://arxiv.org/pdf/1810.04805
-
+GPT
+https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
+Pegasus
 https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
