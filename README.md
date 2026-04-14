@@ -8,3 +8,5 @@ GPT
 https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
 Pegasus
 https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
+T5
+https://arxiv.org/abs/1910.10683
