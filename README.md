@@ -10,3 +10,5 @@ Pegasus
 https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
 T5
 https://arxiv.org/abs/1910.10683
+Глибинний Rotary Positional Embeddings (Наприклад використовується в трансформері QwQ-32B)
+https://medium.com/@parulsharmmaa/understanding-rotary-positional-embedding-and-implementation-9f4ad8b03e32
